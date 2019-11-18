@@ -36,4 +36,4 @@
       
    - *Image*
    \
-   ![stress_pic](/pictures/stress.PNG)
+   ![stress_pic](/pictures/stress_pic.PNG)
