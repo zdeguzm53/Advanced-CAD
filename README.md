@@ -18,4 +18,13 @@
       
    - *Image*
    \
-   ![gearbox_pic](/pictures/gearbox_pic.PNG)
+   ![gearbox_pic](/pictures/gearbox_pic.PNG)   
+   
+- MOTION STUDY
+   - *Overview*
+   \
+      Make a simple assembly with a moving part and use motion analysis to analyze the different propterties (speed, range, gravity, etc).
+      
+   - *Image*
+   \
+   ![motionstudy_pic](/pictures/motionstudy_pic.PNG)
