@@ -23,8 +23,17 @@
 - MOTION STUDY
    - *Overview*
    \
-      Make a simple assembly with a moving part and use motion analysis to analyze the different propterties (speed, range, gravity, etc).
+      Make a simple assembly with a moving part and use motion analysis to analyze the different propterties (speed, direction, gravity, etc).
       
    - *Image*
    \
    ![motionstudy_pic](/pictures/motionstudy_pic.PNG)
+   
+- STRESS ANALYSIS
+   - *Overview*
+   \
+      Use the SimulationXpress feature of solidworks to create a flexible part and analyze the factor of safety (FOS). Then modify the part so it uses the least amount of material possible to still be sturdy.
+      
+   - *Image*
+   \
+   ![stress_pic](/pictures/stress.PNG)
