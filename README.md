@@ -9,4 +9,4 @@
       
    - *Image*
    \
-   ![button_lcd_pic](/pictures/button_lcd_pic.PNG)
+   ![gears_pic](/pictures/gears_pic.PNG)
