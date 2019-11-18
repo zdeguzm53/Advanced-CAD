@@ -9,4 +9,4 @@
       
    - *Image*
    \
-   ![gears_pic](/pictures/gears_pic.PNG)
+   ![gears](/pictures/gears.PNG)
